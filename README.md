@@ -3,7 +3,7 @@
 Welcome to the repository for the French Restaurant Landing Page. This project was created as a freelance gig for a French-based client to showcase their restaurant.
 
 ## Screenshot of the Landing Page
-![](https://github.com/Sud-7/French-Restaurant/blob/master/Screenshot%202024-07-15%20201121.png)
+![](https://github.com/Sud-7/French-Restaurant/blob/master/15.07.2024_20.19.51_REC.gif)
 
 ## Table of Contents
 
