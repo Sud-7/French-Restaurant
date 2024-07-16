@@ -42,7 +42,7 @@ export default function Footer() {
             <div>
               <h1 className="text-xl font-semibold">Quick Links</h1>
               <ul className="space-y-1 mt-6">
-                <li className="footer-link">Home</li>
+                <li className="footer-link">Adios </li>
                 <li className="footer-link">About</li>
                 <li className="footer-link">Contact</li>
                 <li className="footer-link">Food</li>
