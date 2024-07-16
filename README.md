@@ -6,6 +6,9 @@ Welcome to the repository for the French Restaurant Landing Page. This project w
 
 ![](https://github.com/Sud-7/French-Restaurant/blob/master/15.07.2024_20.19.51_REC.gif)
 
+## Hosted URL over Firebase
+https://french-restaurant-7a157.web.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
